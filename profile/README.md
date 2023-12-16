@@ -2,8 +2,6 @@
 
 Welcome to the S.T.A.R.C GitHub repository! 🚀
 
-great
-
 ## About Us
 
 S.T.A.R.C is a dynamic organization specializing in software development and IT consulting services. Our mission is to deliver innovative solutions that drive positive change through technology. We are committed to excellence, ethical practices, and fostering a collaborative community.
